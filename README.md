@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### About Me
+### About Me 😎
 I am a passionate Data Engineer with a strong background in engineering and management. My journey into the world of data began with my academic pursuits and has grown into a fulfilling career where I continually learn and apply new technologies to solve complex problems.
 
 ### Skills
