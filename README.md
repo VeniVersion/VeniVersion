@@ -47,6 +47,6 @@ Feel free to check out my repositories to see more of my work!
 ### Connect with Me
 **LinkedIn**: www.linkedin.com/in/veniversion 💼
 
-I'm always open to discussing new opportunities, collaborations, or simply connecting with like-minded individuals in the tech community. Don't hesitate to reach out!
+I'm always open to discussing new opportunities, collaborations, or simply connecting with like-minded individuals in the tech community. Don't hesitate to reach out!🤝
 
 Thanks for stopping by, and happy coding! 🚀
