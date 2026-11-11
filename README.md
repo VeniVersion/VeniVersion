@@ -96,8 +96,8 @@ I'm building a portfolio of open-source projects that mirror the systems I work 
 
 <!-- Replace YOUR_USERNAME with your GitHub username -->
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories"><img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&logo=github" alt="Followers" /></a>
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories"><img src="https://img.shields.io/badge/Repos-Browse-181717?style=for-the-badge&logo=github" alt="Repositories" /></a>
+  <a href="https://github.com/VeniVersion?tab=repositories"><img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&logo=github" alt="Followers" /></a>
+  <a href="https://github.com/VeniVersion?tab=repositories"><img src="https://img.shields.io/badge/Repos-Browse-181717?style=for-the-badge&logo=github" alt="Repositories" /></a>
 </p>
 
 <!--
