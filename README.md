@@ -92,13 +92,21 @@ I'm building a portfolio of open-source projects that mirror the systems I work 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <!-- Replace YOUR_USERNAME with your GitHub username -->
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=VeniVersion&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeniVersion&layout=compact&hide_border=true" alt="Top languages" />
+  <a href="https://github.com/YOUR_USERNAME?tab=repositories"><img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&logo=github" alt="Followers" /></a>
+  <a href="https://github.com/YOUR_USERNAME?tab=repositories"><img src="https://img.shields.io/badge/Repos-Browse-181717?style=for-the-badge&logo=github" alt="Repositories" /></a>
 </p>
+
+<!--
+Optional: re-enable once you have several repos. The public server is sometimes down.
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" alt="GitHub stats" />
+</p>
+-->
 
 ---
 
